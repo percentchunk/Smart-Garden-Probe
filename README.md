@@ -14,14 +14,14 @@ The three switches are wired directly from GPIO pins to ground. The firmware use
 
 **Parts and their purpose**
 
-XIAO RP2040	-> Main controller
-3 MX switches -> User input
-OLED display ->	Shows sensor readings
-I2C soil sensor ->	Measures soil moisture and local temperature
-Custom PCB ->	Connects all electronics
-3D-printed case	 -> Holds the PCB, OLED, and switches
+XIAO RP2040	-> Main controller,
+3 MX switches -> User input,
+OLED display ->	Shows sensor readings,
+I2C soil sensor ->	Measures soil moisture and local temperature,
+Custom PCB ->	Connects all electronics,
+3D-printed case	 -> Holds the PCB, OLED, and switches,
   **Button Layout**
 
-  SW1 -> Refresh sensor reading
-  Sw2 -> Future Function(undecided)
-  SW3 -> Power on/off 
+  SW1 -> Refresh sensor reading,
+  Sw2 -> Future Function(undecided),
+  SW3 -> Power on/off ,
