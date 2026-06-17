@@ -1,5 +1,6 @@
 # Smart-Garden-Probe
-A customized XIAO RP2040-powered macropad with an OLED display and I2C soil sensor for smart garden monitoring. 
+A customized XIAO RP2040-powered macropad with an OLED display and I2C soil sensor for smart garden monitoring.  
+The idea for this project was to have a user interact with the device, while the display gives readings from the garden probe in a compact manner. 
 
 
 
@@ -11,10 +12,16 @@ The XIAO RP2040 controls the switches, OLED display, and soil sensor. The board 
 
 The three switches are wired directly from GPIO pins to ground. The firmware uses internal pull-up resistors, so the button circuit stays simple and does not need external resistors or diodes.
 
-Part	Purpose
-XIAO RP2040	Main controller
-3 MX switches	User input
-OLED display	Shows sensor readings
-I2C soil sensor	Measures soil moisture and local temperature
-Custom PCB	Connects all electronics
-3D-printed case	Holds the PCB, OLED, and switches
+**Parts and their purpose**
+
+XIAO RP2040	-> Main controller
+3 MX switches -> User input
+OLED display ->	Shows sensor readings
+I2C soil sensor ->	Measures soil moisture and local temperature
+Custom PCB ->	Connects all electronics
+3D-printed case	 -> Holds the PCB, OLED, and switches
+  **Button Layout**
+
+  SW1 -> Refresh sensor reading
+  Sw2 -> Future Function(undecided)
+  SW3 -> Power on/off 
