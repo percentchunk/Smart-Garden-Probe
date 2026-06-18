@@ -25,3 +25,8 @@ Custom PCB ->	Connects all electronics,
   SW1 -> Refresh sensor reading,
   Sw2 -> Future Function(undecided),
   SW3 -> Power on/off ,
+
+
+
+
+.
