@@ -10,16 +10,16 @@ Instead of only showing raw sensor values, the firmwar is designed around plant 
 
 **Specificatiosn** 
 
-1.3 MX-Style Mechanical switch inputs
-2.OLED display for sensor readings, and plant status
-3.I2C capacititve soil sensor connection
-4.Soil moisture and local temperature shown together. 
-Saved plant profile system, with a large vareitiy of plants to choose from. 
-Mode button cycles through saved plant profles 
-ISB-C powered through the XIAO RP2040
-3D-printable sandwhich - style enclourse
-Exported Gerber files and STEP case files
-Supports up to 5 saved plant profiles(can take more way more, but for easier use).
+3 MX-Style Mechanical switch inputs
+,OLED display for sensor readings, and plant status
+,I2C capacititve soil sensor connection
+,Soil moisture and local temperature shown together. 
+,Saved plant profile system, with a large vareitiy of plants to choose from. 
+,Mode button cycles through saved plant profles 
+,ISB-C powered through the XIAO RP2040
+,3D-printable sandwhich - style enclourse
+,Exported Gerber files and STEP case files
+,Supports up to 5 saved plant profiles(can take more way more, but for easier use).
 
 **Use Cases**
 
