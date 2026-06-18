@@ -13,3 +13,8 @@ Use SW3 for power options
 ## Test File
 
 `test_profiles.py` is a simple demo script that tests the plant profile system without needing the physical hardware connected. It uses sample moisture and temperature values and shows whether each saved plant profile would read as too dry, too wet, too cold, too hot, or good.
+
+
+**RESULT OF TEST FILE**
+
+<img width="2560" height="1080" alt="image" src="https://github.com/user-attachments/assets/367d48d3-4d3e-4fab-b3d6-7f28f2551d22" />
