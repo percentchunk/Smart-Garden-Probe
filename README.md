@@ -47,11 +47,11 @@ Supports up to 5 saved plant profiles(can take more way more, but for easier use
 | View | Image |
 |---|---|
 | Top | <img width="1440" height="900" alt="Screenshot 2026-06-17 at 11 44 27 AM 2" src="https://github.com/user-attachments/assets/ac47262c-fc2d-4806-abad-520eaac7ded3" />
- |
+ 
 | Front | <img width="1440" height="900" alt="Screenshot 2026-06-17 at 11 44 25 AM 2" src="https://github.com/user-attachments/assets/1d4f6df5-2260-412c-9aa8-8360e7d5d417" />
- |
+ 
 | PCB | <img width="1440" height="900" alt="Screenshot 2026-06-17 at 11 51 18 AM 2" src="https://github.com/user-attachments/assets/b316d4bf-769f-46a4-bd23-ed93fb88cc1f" />
- |
+ 
 
 **Hardware Overview**
 
