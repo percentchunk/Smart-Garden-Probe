@@ -1,5 +1,3 @@
-<img width="2560" height="1080" alt="Screenshot 2026-06-17 at 11 50 49 AM (2) 2" src="https://github.com/user-attachments/assets/d20dc774-bfd9-4d67-85b8-ca6c12231c0f" />
-
 # Smart Garden Probe Project Journal
 
 ## Current Total Time
