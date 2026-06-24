@@ -1,3 +1,4 @@
+<img width="2560" height="1080" alt="Screenshot 2026-06-17 at 11 50 49 AM (2) 2" src="https://github.com/user-attachments/assets/d20dc774-bfd9-4d67-85b8-ca6c12231c0f" />
 
 # Smart Garden Probe Project Journal
 
@@ -18,14 +19,18 @@ I created the schematic in KiCad and connected the three switches to the XIAO GP
 ## PCB Design — 1 hour 30 minutes
 
 I designed and routed a custom two-layer PCB. I placed the XIAO, three MX switches, OLED header, soil-sensor header, and mounting holes, then exported the Gerber and drill files.
+<img width="2560" height="1080" alt="Screenshot 2026-06-17 at 11 50 49 AM (2) 2" src="https://github.com/user-attachments/assets/dc390feb-ba15-479b-a764-b257aa296e33" />
+<img width="1440" height="900" alt="Screenshot 2026-06-17 at 11 51 11 AM 2" src="https://github.com/user-attachments/assets/5b12f051-d2ea-48e9-9ceb-a7ecf77c323d" />
 
 ## Enclosure CAD — 1 hour 15 minutes
 
 I designed the top plate and bottom enclosure in Onshape. The case includes switch openings, an OLED window, USB-C access, a soil-sensor cable opening, PCB supports, and screw mounting points.
+<img width="1440" height="900" alt="Screenshot 2026-06-17 at 11 44 27 AM 2" src="https://github.com/user-attachments/assets/3867f6c6-ad6c-499c-9611-6b00ef03e50a" />
 
 ## Firmware and Plant Profiles — 1 hour 15 minutes
 
 I created the firmware structure for the buttons, OLED, soil sensor, automatic updates, and plant-profile cycling. I also created moisture and temperature status logic and a test script that can run before the hardware arrives.
+<img width="2560" height="1080" alt="610020152-e79e22c7-d8fa-47d8-90f6-0c1a537301cb" src="https://github.com/user-attachments/assets/825b9f82-8d3c-4291-b13a-ff6e21121424" />
 
 ## Repository Documentation — 30 minutes
 
