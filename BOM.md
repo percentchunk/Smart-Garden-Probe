@@ -1,24 +1,21 @@
 # Bill of Materials
 
-| Part | Quantity | Notes |
-|---|---:|---|
-|Seeed Studio XIAO RP2040 | 1 | Main microcontroller |
-|Custom PCB | 1 | Designed in KICad|
-|MX-style mechancial sitches| 3| Main button inputs|
-|Keycaps | 3 | For switches | 
-|SSD1306 I2C OLED dispaly | 1 | Displays soil mositure and temperature | 
-I2C capacitive soil sensor | 1 | Measures soil moisture and local temperature | 
-| 1x4 2.54mm header | 2 \ OLED and soil sensor connectors | 
-|3d-printed top plate | 1 | Exported as TopPlate.STEP | 
-|3d - printed bottom shell | 1 | Exported as BottomCase.Step|
-|M3 screws | 4+ | For case assembly | 
-|M3 heatset inserts | 4+ | For the bottom case | 
-|USB-C cable | 1 | Power and programming|
+| Part                            |  Quantity |      Price | Purpose                                          |
+| ------------------------------- | --------: | ---------: | ------------------------------------------------ |
+| Seeed Studio XIAO RP2040        |         1 |      $4.50 | Main microcontroller                             |
+| Adafruit STEMMA I2C soil sensor |         1 |      $7.50 | Measures soil moisture and local temperature     |
+| 0.96-inch SSD1306 I2C OLED      |         1 |      $3.00 | Displays readings, plant profiles, and status    |
+| Custom 2-layer PCB              |         1 |      $2.00 | Connects all electronic components               |
+| MX-style mechanical switches    |         3 |      $1.50 | Refresh, profile selection, and display controls |
+| 1U keycaps                      |         3 |      $1.50 | Covers the switches                              |
+| Pin headers                     | As needed |      $0.75 | Connects the XIAO, OLED, and soil sensor         |
+| M3 screws and heat-set inserts  |    4 sets |      $1.00 | Secures the enclosure                            |
+| 3D-printed enclosure            |     1 set |      $1.50 | Holds and protects the electronics               |
+| Hookup wire and solder          | As needed |      $1.00 | Electrical assembly                              |
+| **Total**                       |           | **$24.25** |                                                  |
 
-## Files
+## Cost Notes
 
-1.pcb/ contains the KiCad design files, schematic export, and gerber manufacturing files.
-2.case/ contains the exported step files for the 3d printed box 
-3.firmware/ contains firmware files, and notes.
-4.images/ contains screenshots and reders used for documentation
-5.BOM.md lists the main parts needed to build the project
+Prices represent the approximate amount of each part used in one completed device. Small components such as switches, keycaps, headers, screws, inserts, wire, and filament are usually purchased in larger packs, so their listed price is the portion used for this build.
+
+Shipping, tools, and a USB-C cable are not included. The actual checkout total may be higher because PCB manufacturers and electronics suppliers normally charge shipping separately.
