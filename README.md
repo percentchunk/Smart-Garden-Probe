@@ -11,14 +11,14 @@ The device has three buttons, an OLED display, and an I2C soil sensor. The senso
 The firmware also uses plant profiles. Each profile stores the moisture and temperature ranges for a specific plant, you can edit this with the database in the github.
 
 **Features**
-Seeed Studio XIAO RP2040
-Three MX-style switches
-SSD1306 I2C OLED
-I2C capacitive soil sensor
-Custom two-layer PCB
-Custom 3D-printed enclosure
-USB-C power
-Plant profile system
+Seeed Studio XIAO RP2040,
+ Three MX-style switches,
+ SSD1306 I2C OLED,
+ I2C capacitive soil sensor,
+ Custom two-layer PCB,
+ Custom 3D-printed enclosure,
+ USB-C power
+ Plant profile system
 Moisture and temperature shown together
 Gerber, drill, and STEP files included
 Project Views
