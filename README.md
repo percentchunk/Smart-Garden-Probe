@@ -22,8 +22,11 @@ Plant profile system
 Moisture and temperature shown together
 Gerber, drill, and STEP files included
 Project Views
-Top View	Front View	PCB View
-<img width="300" alt="Top view" src="https://github.com/user-attachments/assets/ac47262c-fc2d-4806-abad-520eaac7ded3" />	<img width="300" alt="Front view" src="https://github.com/user-attachments/assets/1d4f6df5-2260-412c-9aa8-8360e7d5d417" />	<img width="300" alt="PCB view" src="https://github.com/user-attachments/assets/b316d4bf-769f-46a4-bd23-ed93fb88cc1f" />
+
+| Top View | Front View | PCB View |
+|---|---|---|
+| <img width="300" alt="Top view" src="https://github.com/user-attachments/assets/ac47262c-fc2d-4806-abad-520eaac7ded3" /> | <img width="300" alt="Front view" src="https://github.com/user-attachments/assets/1d4f6df5-2260-412c-9aa8-8360e7d5d417" /> | <img width="300" alt="PCB view" src="https://github.com/user-attachments/assets/b316d4bf-769f-46a4-bd23-ed93fb88cc1f" /> |
+
 How It Works
 
 The soil sensor sends moisture and temperature readings to the XIAO RP2040 over I2C.
