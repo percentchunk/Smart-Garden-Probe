@@ -57,11 +57,11 @@ The PCB was designed in KiCad and is about 62.5 mm by 62.5 mm.
 
 It includes:
 
-The XIAO RP2040
-Three switch footprints
-OLED header
-Soil sensor header
-Four 2.5 mm mounting holes
+The XIAO RP2040,
+ Three switch footprints,
+ OLED header,
+ Soil sensor header,
+ Four 2.5 mm mounting holes,
 
 I ran the KiCad Design Rules Checker and exported the Gerber and drill files.
 
@@ -77,10 +77,10 @@ The mounting holes and clearances were corrected after checking the PCB inside t
 
 The firmware is designed to:
 
-Read the soil sensor
-Show moisture and temperature
-Compare readings with plant profiles
-Show simple status messages
-Change profiles with SW2
-Refresh readings with SW1
-Control the display with SW3
+ Read the soil sensor,
+ Show moisture and temperature,
+ Compare readings with plant profiles,
+ Show simple status messages,
+ Change profiles with SW2,
+ Refresh readings with SW1,
+ Control the display with SW3,
